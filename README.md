@@ -52,24 +52,29 @@ posible para ayudarle a satisfacer sus necesidades.
 
 ### Estos son datos que te proponemos:
 
+* [Indicadores de desarrollo del Banco Mundial](src/data/worldbank/worldbank.json)
+  de algunos países (Brasil, Chile, México y Perú). Estos datos incluyen
+  indicadores demográficos, económicos y comerciales.
 * [Pokémon](src/data/pokemon/pokemon.json):
-  En este set encontrarás una lista con los 251 Pokémon de la región de Kanto
-  y Johto, junto con sus respectivas estadísticas usadas en el juego
-  [Pokémon GO](http://pokemongolive.com).
-  * [Investigación con jugadores de Pokémon Go](/src/data/pokemon/README.md)
-
+  En este set encontrarás una lista con los 151 Pokémon de la región de Kanto,
+  junto con sus respectivas estadísticas usadas en el juego [Pokémon GO](http://pokemongolive.com).
+* [Steam noticias](src/data/steam/steam.json):
+  Lista noticias relacionadas a los videojuegos presentes en la
+  plataforma de [Steam](https://store.steampowered.com/).
 * [League of Legends - Challenger leaderboard](src/data/lol/lol.json):
-  Este set de datos muestra la lista de campeones en una liga del
-  juego League of Legends (LoL).
-  * [Investigación con jugadores de LoL](/src/data/lol/README.md)
-
-* [Harry Potter](src/data/potter/potter.json):
-  Este set de datos muestra la lista de los personajes del mundo de
-  [Harry Potter: Wizards Unite](https://www.wizardingworld.com), junto con sus
-  respectivas características mencionadas en la serie de novelas de Harry Potter
-  escrita por la autora británica J.K.Rowling.
-  * [Investigación con jugadores de Harry Potter: Wizards Unite](/src/data/potter/README.md)
-
+  Este set de datos muestra la lista de jugadores en una liga del
+  juego League of Legends (LoL), puedes revisar la documentación de su API en
+  este [link](https://developer.riotgames.com/api-methods/).
+* [Personas heridas por medio de transporte en EEUU](src/data/injuries/injuries.json).
+  Este set nos muestra el número de personas heridas en accidentes de
+  transporte, con data anual desde 1960 y categorizada por tipo de transporte
+  (aire, barco, automóvil, moto, bicicleta, ...).
+* [Rick and Morty](src/data/rickandmorty/rickandmorty.json).
+  Este set nos proporciona la lista de los personajes de la serie Rick and
+  Morty. Puedes revisar la documentación de su API en este [link](https://rickandmortyapi.com).
+* [Pacientes en EEUU](src/data/patient/patient.json).
+  Este set nos proporciona una lista de pacientes de EEUU. Puedes revisar la
+  documentación de su API en este [link](https://r2.smarthealthit.org/Patient).
 
 ## 3. Objetivos de aprendizaje
 
